@@ -28,9 +28,5 @@ Run [test_demo.py](test_demo.py) to test the model
 
 ## How to use the code during test phase.
 
-1. `git clone https://github.com/ofsoundof/IMDN`
-2. Put your model script under the `models` folder.
-3. Put your pretrained model under the `model_zoo` folder.
-4. Modify `model_path` in `test_demo.py`. Modify
-the imported models.
-5. `python test_demo.py`
+1. `https://github.com/Ssakura-go/NITRE-2022-Efficient-SR-Challenge---Set5baby-Team.git`
+2. `python test_demo.py`
