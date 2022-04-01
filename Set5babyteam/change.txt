@@ -1,0 +1,5 @@
+# change in /home/lyh/Source/IMDN/utils/utils_image.py
+1. line-193: div(255.)   => div(1.0)
+2. line-205: clamp_(0,1) => clamp_(0,255)
+3. line-208: img*255.0   => img
+

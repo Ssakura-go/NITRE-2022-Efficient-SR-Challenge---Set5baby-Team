@@ -1,0 +1,7 @@
+Dear organizer,
+* You can run the code by [python test_demo.py] and you will get the results in [Set5babyteam/data/DIV2K_test_LR_results/].
+
+* PS: Need to note that we had put the accordingly file in the package as following:
+              model_650.pt         => model_zoo
+       rfdn.py & rmsrb1.py      => models
+Set5babyteam-factsheet.zip => factsheet （Set5babyteam-factsheet-sourcefile.zip for .tex source file & Set5babyteam-factsheet.pdf）
